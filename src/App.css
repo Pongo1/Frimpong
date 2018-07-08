@@ -1,0 +1,133 @@
+
+
+.card-finish{
+    border:solid 0px rgb(2, 46, 46);
+    border-bottom-width:5px;
+
+}
+.progress{
+    margin:20px 0px;
+    
+}
+.place-font{
+    margin:0px 120px;
+    font-size:1rem;
+}
+.commcycle{
+    font-size:7rem;
+    text-align: center;
+    margin:0px 100px;
+}
+.comm-font{
+    font-size:30px;
+}
+.progress-bar{}
+.side-pane{
+    border:solid 0px  rgb(196, 186, 186); 
+    border-left-width: 1px;
+}
+.thumbnail{
+    background: inherit; 
+    color:rgb(194, 190, 190);
+    border:solid 1px rgb(196, 186, 186);
+    border-radius:2px;
+    padding:10px;
+}
+.the-title{
+    text-align: center;
+    margin-top:80px; 
+   
+}
+.pane:hover{
+    cursor: pointer;
+    z-index: 2;
+}
+.pane:hover +.the-body{
+    opacity:1 ; 
+    transition: .5s ease-in all;
+
+}
+ .the-title:hover{
+    opacity:0; 
+    cursor: pointer;
+    transition: .2s ease-out all;
+
+}
+.the-title:hover + .the-body{
+    
+    
+    opacity:1 ; 
+ 
+    
+    transition: .5s ease-in all;
+
+}
+.the-body{
+    opacity:0;
+    margin-top: -70px;
+    
+    
+}
+.Kard-thumby{
+    background: #585858;
+}
+.Kard{
+    
+}
+.img-anim-select-port{
+    height:250px !important; 
+    width:350px !important;
+   
+    border: solid 5px #e9e4e4;
+    object-fit: cover !important;
+    position:relative;
+}
+.img-anim-select{
+    left: -440px;
+    opacity:0;
+}
+.correct-center-margin{
+    margin:10px 20px;
+    transform: 'rotateX(180deg)';
+    opacity: 0;
+}
+.fonty { 
+    color: #495057; 
+   
+}
+.depth-1{
+    box-shadow:0 5px 11px 0 rgba(0,0,0,.18);
+    -webkit-box-shadow:0 5px 11px 0 rgba(0,0,0,.18); 
+    
+}
+.depth-2 { 
+    -webkit-box-shadow:0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);
+    box-shadow:0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);
+
+}
+.depth-3{ 
+    box-shadow: 12px 15px 0 rgba(0,0,0,.24);
+    -webkit-box-shadow:0 12px 15px 0 rgba(0,0,0,.24);
+}
+.profile-pic{
+    height:200px !important; 
+    width:200px !important;
+    border: solid 5px rgb(219, 217, 217);
+    object-fit: cover !important;
+}
+.begin-container { 
+   
+    margin:100px 30px;
+}
+.round-me{
+    border-radius: 100%;
+    padding:15px 20px;
+    
+}
+
+body{
+   background: #5cb0d6;
+    
+
+             
+}
