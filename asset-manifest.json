@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.04ef016b.css",
-  "main.css.map": "static/css/main.04ef016b.css.map",
-  "main.js": "static/js/main.cc1750dd.js",
-  "main.js.map": "static/js/main.cc1750dd.js.map",
+  "main.css": "static/css/main.c9345fb3.css",
+  "main.css.map": "static/css/main.c9345fb3.css.map",
+  "main.js": "static/js/main.038a08cd.js",
+  "main.js.map": "static/js/main.038a08cd.js.map",
   "static/media/Cute.jpg": "static/media/Cute.1a16e8a8.jpg",
   "static/media/Roboto-Bold.eot": "static/media/Roboto-Bold.ecdd509c.eot",
   "static/media/Roboto-Bold.ttf": "static/media/Roboto-Bold.e31fcf18.ttf",
@@ -25,5 +25,10 @@
   "static/media/Roboto-Thin.woff": "static/media/Roboto-Thin.7500519d.woff",
   "static/media/Roboto-Thin.woff2": "static/media/Roboto-Thin.954bbdeb.woff2",
   "static/media/arrow_left.svg": "static/media/arrow_left.11911410.svg",
-  "static/media/arrow_right.svg": "static/media/arrow_right.8ef6a08c.svg"
+  "static/media/arrow_right.svg": "static/media/arrow_right.8ef6a08c.svg",
+  "static/media/fontawesome-webfont.eot": "static/media/fontawesome-webfont.674f50d2.eot",
+  "static/media/fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
+  "static/media/fontawesome-webfont.ttf?v=4.7.0": "static/media/fontawesome-webfont.b06871f2.ttf",
+  "static/media/fontawesome-webfont.woff2?v=4.7.0": "static/media/fontawesome-webfont.af7ae505.woff2",
+  "static/media/fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff"
 }
