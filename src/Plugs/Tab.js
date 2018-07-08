@@ -85,8 +85,9 @@ class Tab extends Component {
                                     
                                 </div>
                             </div>
-                            <div className ='card-footer'>
+                            <div className ='card-footer clearfix'>
                                 <small>
+                                    <small className = 'text text-muted pull-right'>@powered by react-pongo </small>
                                     <a href='mailto:mrfimpong@gmail.com'> mrfimpong@gmail.com </a>
                                 </small>
                             </div>
